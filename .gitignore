@@ -64,5 +64,6 @@ fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
 
- config.properties
+ api/config.properties
  .DS_Store
+api/config\.properties
